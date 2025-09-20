@@ -34,6 +34,6 @@ I turn creative designs into stunning, pixel-perfect websites, blending innovati
 
 ## 📫 Let’s Connect!
 Love 🤝collaborating with u! Drop a hii👋 if you’d like to work with me. 😄  
-[Portfolio](https://hardikpatel-dev.github.io/) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[Portfolio](https://itshardik.vercel.app) | [LinkedIn](https://www.linkedin.com/in/hardik-kumar-patel-564798227)
 
 ---
